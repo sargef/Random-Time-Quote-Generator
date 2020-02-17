@@ -1,5 +1,5 @@
 # Random-Time-Quote-Generator
  Random Time Quotes Generator with automatic timed intervals
 
-<img src="https://github.com/KrisKasprzak/ILI9341_t3_controls">
+<img src="https://raw.githubusercontent.com/sargef/Random-Time-Quote-Generator/images/Wall.JPG">
 ![Random Time Quote Generator](https://raw.githubusercontent.com/sargef/Random-Time-Quote-Generator/images/Wall.JPG)
