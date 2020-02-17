@@ -1,5 +1,5 @@
 <p align="center">
- <b>Random-Time-Quote-Generator</b>
+ <h1><b>Random-Time-Quote-Generator</b></h1>
 </p>
 
  <p align="center"> Click on Image to see live quote generator!! </p>
