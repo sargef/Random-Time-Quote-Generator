@@ -1,3 +1,4 @@
+<p align="center">
 ## Random-Time-Quote-Generator
 
  **Click on Image to see live quote generator!!**
@@ -20,3 +21,4 @@ Thirdly, by making a function that prints the values of each quote and determins
 Next, for extra credit i constructed a random color generator function that prints a different color background to each new quote printed to the screen. Also for extra points, i made a timer function to generate a quote on regular 10 second intervals.
 
 Lastly, just because it's fun to do, i changed the css styling properties to include change of the opacity of the quote box to a lighter color to bring through the background picture more and also added a water ripple effect over the whole screen using an Ajax plugin.
+</p>
