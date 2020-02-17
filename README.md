@@ -1,6 +1,6 @@
-<p align="center">
- <h1><b>Random-Time-Quote-Generator</b></h1>
-</p>
+
+ <h1><b><p align="center">Random-Time-Quote-Generator</p></b></h1>
+
 
  <p align="center"> Click on Image to see live quote generator!! </p>
 <a target="_blank" href=https://randomtimequotegenerator.sarahshelley.x10host.com/><img src="https://github.com/sargef/Random-Time-Quote-Generator/blob/master/images/randomquote.JPG"></a>
