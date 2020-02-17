@@ -1,5 +1,5 @@
 # Random-Time-Quote-Generator
- Random Time Quotes Generator with automatic timed intervals
+ Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects
  
  
  Click on Image to see live quote generator!!
