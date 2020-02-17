@@ -10,11 +10,11 @@
 The random time quote generator is firstly structured by providing an array literal of quote object values that include;
 </p></h4>
 <p align="center">
-<b>1.</b> <h4>Quote</h4>
-<b>2.</b> <h4>Source</h4>
-<b>3.</b> <h4>Citation</h4>
-<b>4.</b> <h4>Year</h4>
-<b>5.</b> <h4>Tags</h4>
+1. <h4>Quote</h4>
+2. <h4>Source</h4>
+3. <h4>Citation</h4>
+4. <h4>Year</h4>
+5. <h4>Tags</h4>
 </p>
 <h4><p align="center">
 Nextly, by constructing a function to randomly grab a quote from the array, the 1-5 listed values of each quote using the Maths.random function will be queued and ready to print.</p></h4>
