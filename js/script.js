@@ -7,9 +7,6 @@ var red;
 var yellow;
 var blue;
 
-//Timer variable
-var setTimer;
-
 //`quotes` array
 var quotes = [
   {
