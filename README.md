@@ -1,9 +1,9 @@
 <p align="center">
-## Random-Time-Quote-Generator
+##Random-Time-Quote-Generator
 
- **Click on Image to see live quote generator!!**
+ **Click on Image to see live quote generator!!** </p>
 <a target="_blank" href=https://randomtimequotegenerator.sarahshelley.x10host.com/><img src="https://github.com/sargef/Random-Time-Quote-Generator/blob/master/images/randomquote.JPG"></a>
-
+<p align="center">
  **Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects**
 
 The random time quote generator is firstly structured by providing an array literal of quote object values that include;
