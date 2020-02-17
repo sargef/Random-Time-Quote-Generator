@@ -1,17 +1,17 @@
 ## Random-Time-Quote-Generator
- Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects
+ **Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects**
  
  
- Click on Image to see live quote generator!!
+ **Click on Image to see live quote generator!!**
 <a target="_blank" href=https://randomtimequotegenerator.sarahshelley.x10host.com/><img src="https://github.com/sargef/Random-Time-Quote-Generator/blob/master/images/randomquote.JPG"></a>
 
 The random time quote generator is firstly structured by providing an array literal of quote object values that include;
 
-#1.# Quote
-#2.# Source
-#3.# Citation
-#4.# Year
-#5.# Tags
+**1.** Quote
+**2.** Source
+**3.** Citation
+**4.** Year
+**5.** Tags
 
 Nextly, by constructing a function to randomly grab a quote from the array, the 1-5 listed values of each quote using the Maths.random function will be queued and ready to print.
 
