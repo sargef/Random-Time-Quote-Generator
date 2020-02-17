@@ -2,11 +2,10 @@
  <h1><b><p align="center">Random-Time-Quote-Generator</p></b></h1>
 
 
- <p align="center"> Click on Image to see live quote generator!! </p>
+ <h3><b><p align="center">Click on Image to see live quote generator!!</p></b></h3>
 <a target="_blank" href=https://randomtimequotegenerator.sarahshelley.x10host.com/><img src="https://github.com/sargef/Random-Time-Quote-Generator/blob/master/images/randomquote.JPG"></a>
-<p align="center">
- Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects
-</p>
+
+<h2><b><p align="center">Random Time Quotes Generator with automatic timed intervals & Ajax water ripple effects</p></b></h2>
 <p align="center">
 The random time quote generator is firstly structured by providing an array literal of quote object values that include;
 </p>
